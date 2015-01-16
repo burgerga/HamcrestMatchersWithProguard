@@ -1,0 +1,7 @@
+java.lang.Error: Cannot determine correct type for matchesSafely() method.
+            at a.a.a.b.a(Unknown Source)
+            at a.a.i.<init>(Unknown Source)
+            at a.a.i.<init>(Unknown Source)
+            at a.a.b.a.<init>(Unknown Source)
+            at a.a.b.a.b(Unknown Source)
+            at a.a.f.a(Unknown Source)
